@@ -1,8 +1,15 @@
 # Jazyk_MarkDown
+
 Repo pre markdown trening
 
 # Hlavny nadpis (nadpis H1)
+
+obycajny text.
+riadky sa **spajaju** automaticky. enter _nestaci_, treba  
+dat 2  medzery
+
 ## Podnadpis1 (nadpis H2)
+
 ## Podnadpis2 (nadpis H2)
 ### Podpodnadpis (nadpis H3)
 ## Podnadpis3 (nadpis H2)
